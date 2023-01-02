@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'when does the fight become enabling? haha I don't know, but these are my thoughts'
+title: when does the fight become enabling? haha I don't know, but these are my thoughts
 author: 'Edward'
 description: "This post will show up on its own!"
 image: 
